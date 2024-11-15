@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>IPAI, Seoul Nation University</a>.
+subtitle: <a href='https://gsai.snu.ac.kr/'>IPAI, Seoul National University</a>.
 
 profile:
   align: right
@@ -10,10 +10,10 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: > 
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I'm currently MS student studying AI in M.IN.D Lab.
+I'm currently MS student studying AI in <a href='https://mindlab-snu.github.io/'>M.IN.D Lab</a>.
 
-Research Interest: AI Fairness/Bias, Medical AI, Multimodal Learning
+Research Interest: AI Safety (Debiasing, Fairness, Preventing NSFW Content Generation), Medical AI

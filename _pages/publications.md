@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: "C: Conference, J: Journal, P: Preprint, *: Equal Contribution"
+description: "C: Conference, J: Journal, P: Preprint, *: Equal Contribution, †: Corresponding Author"
 nav: true
 nav_order: 2
 ---
