@@ -14,7 +14,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I'm currently MS student studying AI at <a href='https://mindlab-snu.github.io/'>M.IN.D Lab</a>.
+I'm currently Ph.D. student studying AI at <a href='https://mindlab-snu.github.io/'>M.IN.D Lab</a>.
 
 Research Interests:
 <ul>
