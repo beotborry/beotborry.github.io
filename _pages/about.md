@@ -18,7 +18,8 @@ I'm currently MS student studying AI at <a href='https://mindlab-snu.github.io/'
 
 Research Interests:
 <ul>
- <li> AI Safety (Debiasing, Fairness, Preventing NSFW Content Generation) </li>
- <li> Brain + AI (Alzheimer's Disease Diagnosis, Brain Decoding) </li>
+ <li> Brain + AI (Alzheimer's Disease Diagnosis, Brain Decoding, Multimodality)<br>
+    <em>“Can AI help understand the brain? Can understanding of the brain advance AI?”</em></li>
+ <li> AI Safety (Debiasing, Fairness, Privacy) </li>
 </ul>
 You can reach me through "parkjh9229@snu.ac.kr".
