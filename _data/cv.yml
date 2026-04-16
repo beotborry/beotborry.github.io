@@ -26,12 +26,16 @@
   type: time_table
   contents:
     - title: Research Intern
-      institution: <a href='https://mindlab-snu.github.io/'>M.IN.D Lab</a>
-      year: 2021.07 - 2023.02
+      department: <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a> - AI/ML Group
+      year: 2026.03 - 2026.09 (Expected)
 
     - title: Intern
       department: <a href='https://clova.ai/'>NAVER CLOVA</a> - Image Vision Team
       year: 2022.07 - 2022.12
+
+    - title: Research Intern
+      institution: <a href='https://mindlab-snu.github.io/'>M.IN.D Lab</a>
+      year: 2021.07 - 2023.02
 
 - title: Teaching
   type: time_table
