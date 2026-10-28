@@ -21,7 +21,6 @@
         - "Major : Electrical and Computer Engineering"
         - "Minor : Statistics"
 
-
 - title: Experience
   type: time_table
   contents:
@@ -43,7 +42,6 @@
     - title: Programming Methodology
       institution: ECE, Seoul National University
       year: 2023.S, 2024.S
-
 
 # - title: Open Source Projects
 #   type: time_table
@@ -71,7 +69,6 @@
     - year: 2023.09 ~
       items:
         - <a href='https://www.cmkfoundation-scholarship.org/'>Hyundai Motor Chung Mong-Koo Foundation Scholarship</a>
-
 # - title: Academic Interests
 #   type: nested_list
 #   contents:

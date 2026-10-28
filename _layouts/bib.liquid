@@ -114,7 +114,7 @@
     {% else %}
       {% capture entrytype %}{% endcapture %}
     {% endif %}
-    {% assign entrymonth = nil %}
+    {% assign entrymonth = null %}
     {% if entry.year %}
       {% capture entryyear %}{{ " " }}{{ entry.year }}{% endcapture %}
     {% endif %}
