@@ -13,6 +13,8 @@
 "kim":
   - firstname: ["Peter Yongho"]
     url: https://sites.google.com/view/peter-yongho-kim/
+  - firstname: ["Yeonwoo"]
+    url: https://mindlab-snu.notion.site/Yeonwoo-Kim-3ca3765631c280d681b0f088600f7f58
 
 "cha":
   - firstname: ["Jiook"]
@@ -32,26 +34,20 @@
 
 "park":
   - firstname: ["Jungwoo"]
+  - firstname: ["Jin"]
+    url: https://mindlab-snu.notion.site/Jin-Park-1b83765631c280d09c07ea21616a6a33
 
 "yu":
   - firstname: ["Sumin"]
     url: https://sumin-yu.github.io/
 
-"park":
-  - firstname : ["Jin"]
-    url: https://mindlab-snu.notion.site/Jin-Park-1b83765631c280d09c07ea21616a6a33
-
 "hwang":
-  - firstname : ["Jung Yoon"]
-    url : https://mindlab-snu.notion.site/Jung-Yoon-Hwang-1b83765631c280889036ce432f6bc8ec
+  - firstname: ["Jung Yoon"]
+    url: https://mindlab-snu.notion.site/Jung-Yoon-Hwang-1b83765631c280889036ce432f6bc8ec
 
 "jung":
-  - firstname : ["Sangwon"]
-    url : https://successful-humor-4db.notion.site/Sangwon-Jung-70109a49767a470092a6ee0d02c78313?pvs=4
-
-"kim":
-  - firstname: ["Yeonwoo"]
-    url: https://mindlab-snu.notion.site/Yeonwoo-Kim-3ca3765631c280d681b0f088600f7f58
+  - firstname: ["Sangwon"]
+    url: https://successful-humor-4db.notion.site/Sangwon-Jung-70109a49767a470092a6ee0d02c78313?pvs=4
 
 "wang":
   - firstname: ["Yansen"]
@@ -65,7 +61,6 @@
   - firstname: ["Dongqi"]
     url: https://www.microsoft.com/en-us/research/people/dongqihan/
 
- "li":
+"li":
   - firstname: ["Dongsheng"]
     url: https://www.microsoft.com/en-us/research/people/dongsli/
-  
